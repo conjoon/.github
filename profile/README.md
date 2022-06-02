@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://img.shields.io/npm/l/@conjoon/conjoon" alt="MIT" />
 <img src="https://badge.fury.io/js/@conjoon%2Fconjoon.svg" alt="MIT" />
-<img src="https://github.com/conjoon/conjoon/actions/workflows/create.release.yml/badge.svg" />
 </p>
 <p align="center">
   ⚡ lightweight, feature rich <b>open source JavaScript email client</b>.
